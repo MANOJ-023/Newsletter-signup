@@ -1,1 +1,1 @@
-web: node newsletter-app.js
+web:node newsletter-app.js
